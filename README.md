@@ -24,6 +24,8 @@ This project is an interactive Power BI dashboard developed to analyze e-commerc
 - Orders
 - Profit Margin
 
+- Dashboard Interaction<a href="
+
 ## Dashboard Features
 
 - Sales by Category
