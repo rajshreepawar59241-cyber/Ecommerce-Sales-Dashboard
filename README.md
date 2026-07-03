@@ -43,4 +43,5 @@ This project is an interactive Power BI dashboard developed to analyze e-commerc
 
 ## Dashboard Preview
 
-(Add your dashboard screenshots below.)
+<img width="605" height="342" alt="Ecommerce_db" src="https://github.com/user-attachments/assets/0b2a4b9a-cffa-4130-ace3-ecbbf9d51fc4" />
+
